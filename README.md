@@ -1,1 +1,1 @@
-python ??? physics ??? 
+gonna learn c++ for esp32
